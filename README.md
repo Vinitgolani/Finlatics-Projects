@@ -47,7 +47,7 @@ Feel free to browse through the assignments and projects to see how I developed 
 ---
 
 ### ✨ **Let’s Connect!**
-If you have any questions or would like to collaborate, feel free to reach out via [LinkedIn](https://www.linkedin.com) or check out more of my projects on [GitHub](https://github.com).
+If you have any questions or would like to collaborate, feel free to reach out via [LinkedIn](www.linkedin.com/in/vinitgolani) or check out more of my projects on [GitHub](https://github.com/Vinitgolani/).
 
 ---
 
